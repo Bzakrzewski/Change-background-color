@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    font-family: serif;
+    font-size: 90%;
+    font-weight: bold;
+    background-color: white;
+}
+
+h1 {
+    margin-top: 10%;
+}
+
+button {
+    margin-top: 10%;
+    width: 10%;
+    height: 50px;
+}
